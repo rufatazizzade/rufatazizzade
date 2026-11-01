@@ -2,7 +2,7 @@
 
 # 👨‍💻 Rufat Azizzade
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=25D366&center=true&vCenter=true&width=620&lines=Software+QA+Engineer+Intern+%40+Gen+Digital;Software+Engineering+Student+%40+CTU+in+Prague;1st+Place+Winner+%40+Teknofest+2024+%26+EuroTeQ;Automated+Testing+%E2%80%A2+Security+%E2%80%A2+CI%2FCD;Advocate+for+Zero-Defect+%26+Resilient+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=25D366&center=true&vCenter=true&width=435&lines=Test+Automation+Devleoper+%40+Gen;Software+Engineering+Student;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Prague%2C%20Czech%20Republic-0969da?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
