@@ -37,7 +37,6 @@
 Detail-oriented Software Engineering student at **Czech Technical University in Prague (CTU FIT)** with hands-on expertise in:
 - **Test Automation & QA Architecture**: Browser automation with Python, regression frameworks, BrowserStack device/browser matrix testing, and TeamCity CI/CD validation.
 - **Systematic Root Cause Analysis**: Reproduce ➔ Isolate Root Cause ➔ Formulate Failure Scenarios ➔ Patch ➔ Automated Verification.
-- **Embedded & Security Engineering**: Sandboxed API vulnerability audits, firmware automation for ATmega/IoT, and real-time sensor processing.
 - **Competitive Innovation**: Multiple **1st Place** champion across prestigious international hackathons (*Teknofest 2024*, *EuroTeQ*, *World Robot Olympiad*).
 
 ---
@@ -96,8 +95,8 @@ Remediation & Regression Suite:
 
 | Browser / Target | Automation Engine | Execution Matrix | Pipeline |
 | :--- | :--- | :--- | :--- |
-| **Avast Secure Browser** | Python + Selenium / PyTest | Win 10/11, macOS, Android | TeamCity CI / Daily Regression |
-| **Neo Browser** | Python Custom Test Scripts | Cross-platform builds | Continuous Smoke & Functional |
+| **Avast Secure Browser** | Python + Selenium / PyTest | Win 10/11, macOS, Android | TeamCity CI / Daily Regression | E2E Automation |
+| **Neo Browser** | Python Custom Test Scripts | Cross-platform builds | Continuous Smoke & Functional | Performance Testing | 
 | **AVG Secure Browser** | BrowserStack Automation | Multi-OS version matrix | Pre-release sanity gates |
 | **Backend REST APIs** | Requests / PyTest / Docker | Sandboxed container runtime | Automated security & contract checks |
 
@@ -204,19 +203,16 @@ A real-time acoustic sensing and signal processing mesh network for early indust
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ### 🧪 QA & Test Automation
 <p>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/BrowserStack-0052CC?style=for-the-badge&logo=browserstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Testing-4A154B?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -234,13 +230,6 @@ A real-time acoustic sensing and signal processing mesh network for early indust
   <img src="https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-### 🔌 Embedded & Hardware
-<p>
-  <img src="https://img.shields.io/badge/ATmega%20(AVR)-000000?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocols-I2C%20%7C%20SPI%20%7C%20UART-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HIL%20Testing-Hardware--in--the--Loop-informational?style=for-the-badge" />
-</p>
 
 </div>
 
