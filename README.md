@@ -106,7 +106,7 @@ Remediation & Regression Suite:
 
 ## 💼 Work Experience
 
-### 🏢 **Gen Digital** · *Software QA Engineer Intern*
+### 🏢 **Gen Digital** · *Test Automation Engineer*
 `June 2026 – Present` · *Prague, Czech Republic*
 - Perform comprehensive manual and automated testing across **Avast Secure Browser**, **Neo Browser**, and **AVG Secure Browser** across multiple OS versions and platforms.
 - Author and maintain **Python-based automation scripts** to drastically reduce manual regression effort and elevate test coverage across continuous builds.
